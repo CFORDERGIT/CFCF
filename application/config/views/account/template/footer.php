@@ -1,0 +1,1 @@
+ <footer class="footer text-center"> 2017 &copy; Account panel by cf-order.com </footer>
